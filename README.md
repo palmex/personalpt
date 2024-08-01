@@ -35,6 +35,7 @@ chmod +x run_all_seg.sh
 ./run_all_seg.sh
 ```
 
+to run inference with the model, modify the prediction_js.py file to fit your own needs, then run it
 
 ## performance
 
